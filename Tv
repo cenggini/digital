@@ -2,8 +2,6 @@
 url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:0 tvg-id="" tvg-name="PENTING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlMDg5yjYPjlahAXGWq3nA65rwYOQkS_-iA&usqp=CAU" group-title="PENTING",DALAM PERBAIKAN
-
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
 https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
 
